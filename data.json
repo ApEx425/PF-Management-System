@@ -1,34 +1,42 @@
 [
-  {
-    "name": "Anshu",
-    "age": 21,
-    "email": "anshukumarpatel426@gmail.com",
-    "pin": 2406,
-    "accountNo": "%52xRQ7",
-    "balance": 17000
-  },
-  {
-    "name": "Sameer",
-    "age": 20,
-    "email": "sameer1923027@gmail.com",
-    "pin": 1618,
-    "accountNo": "ypn34^9",
-    "balance": 0
-  },
-  {
-    "name": "Roshan",
-    "age": 20,
-    "email": "roshan.sim@gmail.com",
-    "pin": 2200,
-    "accountNo": "Di4L&83",
-    "balance": 0
-  },
-  {
-    "name": "Pratik",
-    "age": 21,
-    "email": "pratikkasyap@gmail.com",
-    "pin": 2002,
-    "accountNo": "95oS0$u",
-    "balance": 0
-  }
+    {
+        "name": "Anshu",
+        "age": 21,
+        "email": "anshukumarpatel426@gmail.com",
+        "pin": 2406,
+        "accountNo": "%52xRQ7",
+        "balance": 17000
+    },
+    {
+        "name": "Sameer",
+        "age": 20,
+        "email": "sameer1923027@gmail.com",
+        "pin": 1618,
+        "accountNo": "ypn34^9",
+        "balance": 0
+    },
+    {
+        "name": "Roshan",
+        "age": 20,
+        "email": "roshan.sim@gmail.com",
+        "pin": 2200,
+        "accountNo": "Di4L&83",
+        "balance": 0
+    },
+    {
+        "name": "Pratik",
+        "age": 21,
+        "email": "pratikkasyap@gmail.com",
+        "pin": 2002,
+        "accountNo": "95oS0$u",
+        "balance": 0
+    },
+    {
+        "name": "Harshit",
+        "age": 24,
+        "email": "harshit223@gmail.com",
+        "pin": 2011,
+        "accountNo": "0C^EX79",
+        "balance": 0
+    }
 ]
